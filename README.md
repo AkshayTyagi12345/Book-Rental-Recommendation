@@ -8,7 +8,7 @@ You, as an ML expert, should focus on improving the user experience by personali
 Note: You have to perform user-based collaborative filtering and item-based collaborative filtering.
 
 # Dataset description:
- X-Users: It contains the information of users.
+```  X-Users: It contains the information of users.
 
 user_id - These have been anonymized and mapped to integers
 
