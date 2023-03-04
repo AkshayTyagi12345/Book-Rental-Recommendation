@@ -12,11 +12,11 @@ Note: You have to perform user-based collaborative filtering and item-based coll
 # BX-Users: 
 It contains the information of users.
 
-user_id - These have been anonymized and mapped to integers
+ - user_id - These have been anonymized and mapped to integers
 
-Location - Demographic data is provided
+ - Location - Demographic data is provided
 
-Age - Demographic data is provided
+ - Age - Demographic data is provided
 
 If available, otherwise, these fields contain NULL-values.
 
@@ -66,4 +66,4 @@ Make predictions based on user and item variables
 
 Use RMSE to evaluate the predictions
 
-To download the dataset click here.
+
