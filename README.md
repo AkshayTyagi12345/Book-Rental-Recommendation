@@ -8,7 +8,9 @@ You, as an ML expert, should focus on improving the user experience by personali
 Note: You have to perform user-based collaborative filtering and item-based collaborative filtering.
 
 # Dataset description:
-```  X-Users: It contains the information of users.
+
+# BX-Users: 
+It contains the information of users.
 
 user_id - These have been anonymized and mapped to integers
 
@@ -18,7 +20,7 @@ Age - Demographic data is provided
 
 If available, otherwise, these fields contain NULL-values.
 
-BX-Books:
+# BX-Books:
 
 isbn - Books are identified by their respective ISBNs. Invalid ISBNs have already been removed from the dataset.
 
@@ -30,7 +32,8 @@ year_of_publication
 
 publisher
 
-BX-Book-Ratings: Contains the book rating information.
+# BX-Book-
+Ratings: Contains the book rating information.
 
 user_id
 
